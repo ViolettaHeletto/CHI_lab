@@ -1,0 +1,16 @@
+
+Price List
+-----------
+apple : 13.2
+pineapple : 567
+baclashan : 76
+cucumber : 12
+banana : 65
+
+Entries
+-------
+2222255555 : vvvvvvvvvvvv
+176 : kiuki
+14 : nure
+3 : kiu
+9375926 : sdgvsudigfuysed
